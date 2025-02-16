@@ -6,7 +6,7 @@ echo "Installing Folder Documentation Tool..."
 mkdir -p ~/FolderDocumenter
 
 # Download the Python script from the repository
-curl -o ~/FolderDocumenter/document_folders.py https://raw.githubusercontent.com/YOUR_REPO/document_folders.py
+curl -o ~/FolderDocumenter/document_folders.py https://raw.githubusercontent.com/1986mtbogong95/Folder_Structure/document_folders.py
 
 # Make it executable
 chmod +x ~/FolderDocumenter/document_folders.py
